@@ -4,7 +4,7 @@ Hi I’m Vridhi 👋
 
 I work with data and machine learning, and I enjoy building things that don’t stop at analysis or models but are actually usable in practice. My work focuses on practical, reproducible solutions: not just what works, but why it works and how it can be maintained in production.
 
-Before ISB, I worked with financial and operational datasets where data quality and consistency mattered as much as the insights themselves. Most projects here reflect learning-by-doing across forecasting, ML systems, computer vision, and deployment.
+I have worked with financial and operational datasets where data quality and consistency mattered as much as the insights themselves. Most projects here reflect learning-by-doing across forecasting, ML systems, computer vision, and deployment.
 
 ### What you’ll find here
 - Time-series forecasting projects and demand modeling  
