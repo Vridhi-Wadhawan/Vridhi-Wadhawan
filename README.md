@@ -1,34 +1,42 @@
-Hi I’m Vridhi 👋
+Hi, I'm Vridhi 
 
-> *Learning to build practical data, analytics, and machine learning systems.*
+*I like to build data and ML systems designed to be used — not just submitted.*
 
-I work with data and machine learning, and I enjoy building things that don’t stop at analysis or models but are actually usable in practice. My work focuses on practical, reproducible solutions — understanding not just what works, but how those systems can be maintained and used in real settings.
+Most of my work sits at the boundary between analysis and deployment. The question I keep coming back to isn't "does the model work?" — it's "does the system hold up when it meets reality?"
 
-I have worked with financial and operational datasets where data quality and consistency mattered as much as the insights themselves. Most projects here reflect learning-by-doing across forecasting, machine learning systems, computer vision, and deployment.
+---
 
-### What you’ll find here
-- Time-series forecasting projects and demand modeling  
-- End-to-end ML pipelines, APIs, and model monitoring  
-- Deep learning for object detection and image classification  
-- Knowledge-graph–based system modeling and structured data representations
+### What's here
+
+Projects across forecasting, MLOps, computer vision, retrieval systems, and knowledge graphs — each built around a real problem rather than a benchmark.
+
+A few things worth looking at:
+
+- **Stock Forecasting App** — live XGBoost forecasting for any NSE ticker with R² monitoring and drift detection. Built to tell you when to stop trusting the forecast, not just what the forecast is.
+- **Bank Marketing MLOps** — end-to-end pipeline from raw data to a containerised Flask API on AWS EC2 with SHAP interpretability.
+- **RAG Politics QA** — retrieval-augmented generation over Indian Prime Ministers Wikipedia corpus. Baseline accuracy 0.19 → 0.37 through pipeline design alone.
+- **Stock Market Anomaly Detection** — five detection methods compared and validated against real financial news. The signal only matters if it meant something.
+
+---
 
 ### Current focus
-- Building reliable data and ML pipelines that move beyond notebooks
-- Applying machine learning and statistical analysis to real-world decision problems
-- Exploring LLM and retrieval systems for structured knowledge applications
-- Productionizing forecasting models with robust data validation and CI/CD  
-- Improving interpretability and operational reliability of ML systems  
-- Prototyping multi-modal approaches that combine vision and structured time-series data
 
-### Tech & tools 
-- Languages: Python, SQL  
-- ML: PyTorch, scikit-learn, TensorFlow  
-- Infrastructure: Docker, FastAPI, Airflow, AWS/GCP  
-- Data: Pandas, Dask, data validation tools
+Completing the Advanced Management Program in Business Analytics at ISB Hyderabad — building systems that bridge ML and real business decisions.
 
-### Outside of work
-I enjoy movies and music, and I like noticing patterns and structure in both — whether it’s a story, a dataset, or a system.
+Pushing toward: better deployment practices, stronger evaluation frameworks, and projects where the output is a decision, not just a prediction.
 
-### Contact
-- Email: **vridhi99@gmail.com**  
-- [LinkedIn](https://www.linkedin.com/in/vridhi-wadhawan/)
+---
+
+### Stack
+
+Python · SQL · scikit-learn · XGBoost · PyTorch · Docker · AWS EC2 · Flask · Streamlit · LlamaIndex · Tableau
+
+---
+
+### Outside the code
+
+I notice patterns everywhere — in datasets, in films, in how systems fail quietly before they fail loudly. Wady's Kitchen was a lockdown experiment in building something from zero. Same instinct, different medium.
+
+---
+
+vridhi99@gmail.com · [LinkedIn](https://www.linkedin.com/in/vridhi-wadhawan/) · [Portfolio](https://vridhi-wadhawan.github.io/)
